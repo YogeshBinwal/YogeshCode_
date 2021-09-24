@@ -50,7 +50,7 @@ while turns > 0:
 	if failed == 0:
 		# user will win the game if failure is 0
 		# and 'You Win' will be given as output
-		print("You Win")
+		print("You Win😊")
 		
 		# this print the correct word
 		print("The word is: ", word)
@@ -70,7 +70,7 @@ while turns > 0:
 		
 		# if the character doesn’t match the word
 		# then “Wrong” will be given as output
-		print("Wrong")
+		print("Wrong🤞")
 		
 		# this will print the number of
 		# turns left for the user
@@ -78,4 +78,4 @@ while turns > 0:
 		
 		
 		if turns == 0:
-			print("You Loose")
+			print("sorry! try next time😢 ")
